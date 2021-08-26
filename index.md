@@ -120,7 +120,7 @@
                         <span>
                             Once completed a video will be inserted here.
                         </span>
-                        <p>
+                        <p class="invisible">
                             <a class="secondary-text nav-link" href="https://github.com/JosephHuntley/HRIS">Inspect Code</a>
                         </p>
                     </div>
